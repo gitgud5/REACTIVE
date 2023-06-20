@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anastasia"
+    },
+    {
+      "name": "Luke Ferry",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Невероятный Стальной Носки",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Великолепный Пластиковый Носки",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Интеллектуальный Кожанный Сабо",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/vquy4nie/640/480",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/dbIyZMK0q/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/d05BN/640/480",
+      "id": 6
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=7407213633077248",
+      "id": 8
+    }
+  ]
+}

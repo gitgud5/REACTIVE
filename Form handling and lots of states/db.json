@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "title": "Dance of the Justice Kitties",
+      "id": 1
+    },
+    {
+      "title": "The Quest for the Cosmic Banana",
+      "id": 2
+    },
+    {
+      "title": "Zombies vs. Unicorns: Battle Royale",
+      "id": 3
+    },
+    {
+      "title": "The Secret of the Glittering Cheese",
+      "id": 4
+    },
+    {
+      "title": "Attack of the Killer Donuts",
+      "id": 5
+    },
+    {
+      "title": "The Time-Traveling Penguins",
+      "id": 6
+    },
+    {
+      "title": "The Adventures of Captain Quirk",
+      "id": 7
+    },
+    {
+      "title": "Mystery of the Rainbow Llama",
+      "id": 8
+    },
+    {
+      "title": "Ninja Cats: Feline Fury",
+      "id": 9
+    },
+    {
+      "title": "Dance Dance Revolution: Disco Edition",
+      "id": 10
+    },
+    {
+      "title": "Space Invaders: Attack of the Fluffy Bunnies",
+      "id": 11
+    },
+    {
+      "title": "The Lost Kingdom of Candyland",
+      "id": 12
+    },
+    {
+      "title": "Jurassic Hamsters: Rampage",
+      "id": 13
+    },
+    {
+      "title": "The Great Corgi Caper",
+      "id": 14
+    },
+    {
+      "title": "The Haunted Tacos from Outer Space",
+      "id": 15
+    },
+    {
+      "title": "The Enchanted Pizza Delivery",
+      "id": 16
+    },
+    {
+      "title": "Super Squirrel: Nutty Hero",
+      "id": 17
+    },
+    {
+      "title": "Mega Bounce: Extreme Trampoline",
+      "id": 18
+    },
+    {
+      "title": "RoboRacers: Circuit Mayhem",
+      "id": 19
+    },
+    {
+      "title": "The Mysterious Case of the Talking Socks",
+      "id": 20
+    },
+    {
+      "title": "Pirate Parrots: Caribbean Adventure",
+      "id": 21
+    }
+  ]
+}
