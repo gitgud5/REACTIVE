@@ -161,7 +161,6 @@ What is thunk?
     Now Here is how we add a listener to extraBuilder in slice  
 
 ```js
-const x = 20;
 // fetchUsers we got from the thunk we created.
 // fetchUsers.pending gives the string address for the action
 // console.log it for getting clear concept
